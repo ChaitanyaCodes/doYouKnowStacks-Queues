@@ -1,4 +1,4 @@
-# doYouKnowStacks-Queues
+# doYouKnowStacks-Queues :thinking:
 
 A CLI Quiz App to know how much you know about Linear DataStructures.
 
